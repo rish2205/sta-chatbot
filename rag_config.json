@@ -1,0 +1,164 @@
+{
+  "uploads_dir": "uploads",
+  "index_path": "rag_index/rag.sqlite3",
+  "embedding_model": "text-embedding-3-small",
+  "chunk_chars": 1100,
+  "chunk_overlap": 150,
+  "top_k": 10,
+  "categories": {
+    "kyc": {
+      "folder": "KYC"
+    },
+    "transmission": {
+      "folder": "Transmission"
+    },
+    "registry": {
+      "folder": "Registry"
+    },
+    "dividend": {
+      "folder": "Dividend"
+    },
+    "iepf": {
+      "folder": "IEPF"
+    }
+  },
+  "_comment_topic_routes": "Menu topic id -> PDF category. null = no PDFs for that topic, go straight to the restricted official-source search.",
+  "topic_routes": {
+    "kyc": "kyc",
+    "nomination": "kyc",
+    "iepf": "iepf",
+    "registry": "registry",
+    "dividend": "dividend",
+    "transmission": "transmission",
+    "demat": null,
+    "isin": null
+  },
+  "_comment_supporting": "Form codes (from forms.json) from OTHER categories that a category may also retrieve. Nothing else outside the category is searched.",
+  "supporting": {
+    "registry": [
+      "ISR-1",
+      "ISR-2"
+    ],
+    "dividend": [
+      "ISR-1"
+    ],
+    "transmission": [
+      "ISR-1"
+    ]
+  },
+  "_comment_documents": "Optional per-file metadata (key = filename). Dates are never guessed from filenames; add them here when the text does not state them.",
+  "documents": {
+    "SEBI_Transmission_Framework_2026-07-23.pdf": {
+      "title": "SEBI circular HO/38/13/11(14)2026-MIRSD-POD/I/17111/2026 on transmission of securities",
+      "date": "2026-07-23",
+      "effective": "2026-08-22",
+      "supersedes": "The 2022 SEBI transmission formats"
+    },
+    "SEBI_Investor_Service_FAQ_2026-01.pdf": {
+      "title": "SEBI investor service request FAQ, January 2026",
+      "version": "Official SEBI FAQ, January 2026; check applicable later circulars"
+    },
+    "IEPF_SRN_Dividend_Reference_Notes.pdf": {
+      "title": "Prepared IEPF reference notes with official source provenance",
+      "version": "Prepared 2026-10-06 from official indexed passages; not an official circular; 2024 filing instructions are historical references"
+    },
+    "Affidavit cum Indemniity.pdf": {
+      "title": "Form A: Affidavit-cum-Indemnity for issuance of duplicate securities (Annexure-A format)",
+      "version": "Form A format as supplied in uploads; issuing circular and date are not stated in the PDF. Pairs with ISR-4 for lost-certificate duplicate requests."
+    },
+    "Joint_Holder_Transmission_Format (1).pdf": {
+      "title": "Registrar procedure pack for joint-holder transmission (demise of a holder)",
+      "version": "Older, undated format pack citing SEBI circular dated 25.01.2022. Historical for Letter of Confirmation / demat-credit steps.",
+      "caveat": "Older overlapping document, kept separate from current evidence. Its Letter of Confirmation and demat-only issuance instructions (2022 circular) are historical and must not be presented as current guidance; where it differs from the SEBI circular of 2026-07-23 (effective 2026-08-22), follow the circular."
+    }
+  },
+  "_comment_fallback": "Official-source search used only when the PDFs are insufficient. No general internet search.",
+  "fallback": {
+    "enabled": true,
+    "domains": [
+      "sebi.gov.in"
+    ],
+    "extra_domains": {
+      "iepf": [
+        "iepf.gov.in",
+        "mca.gov.in"
+      ],
+      "gnsa": [
+        "gnsaindia.com"
+      ]
+    },
+    "cache_hours_env": "FALLBACK_CACHE_HOURS",
+    "cache_hours_default": 24
+  },
+  "gnsa_pages": {
+    "kyc": [
+      {
+        "title": "GNSA KYC forms and IEPF claim procedures",
+        "url": "https://www.gnsaindia.com/kyc.php",
+        "follow_attachments": false
+      }
+    ],
+    "nomination": [
+      {
+        "title": "GNSA KYC forms and IEPF claim procedures",
+        "url": "https://www.gnsaindia.com/kyc.php",
+        "follow_attachments": false
+      }
+    ],
+    "iepf": [
+      {
+        "title": "GNSA KYC forms and IEPF claim procedures",
+        "url": "https://www.gnsaindia.com/kyc.php",
+        "follow_attachments": false
+      }
+    ],
+    "registry": [
+      {
+        "title": "GNSA KYC forms and IEPF claim procedures",
+        "url": "https://www.gnsaindia.com/kyc.php",
+        "follow_attachments": false
+      }
+    ],
+    "dividend": [
+      {
+        "title": "GNSA KYC forms and IEPF claim procedures",
+        "url": "https://www.gnsaindia.com/kyc.php",
+        "follow_attachments": false
+      }
+    ],
+    "transmission": [
+      {
+        "title": "GNSA KYC forms and IEPF claim procedures",
+        "url": "https://www.gnsaindia.com/kyc.php",
+        "follow_attachments": false
+      }
+    ]
+  },
+  "gnsa_resources": {
+    "website": "https://www.gnsaindia.com/",
+    "iepf_procedures": "https://www.gnsaindia.com/kyc.php",
+    "kyc_forms": "https://www.gnsaindia.com/kyc.php",
+    "iepf_helpkit": "https://www.gnsaindia.com/kyc.php",
+    "iepf5_online":"https://www.gnsaindia.com/kyc.php",
+    "gnsa_portal": null
+  },
+  "gnsa_service_facts": {
+    "kyc": "uploads/KYC/gnsa_kyc_service_facts.json",
+    "nomination": "uploads/KYC/gnsa_kyc_service_facts.json",
+    "iepf": "uploads/IEPF/gnsa_iepf_service_facts.json"
+  },
+  "_comment_profile_categories": "Extra PDF categories searched for a response profile, in addition to its topic route. Signature questions sit under Registry but still read KYC evidence (ISR-1, ISR-2, SEBI FAQ).",
+  "profile_categories": {
+    "signature_mismatch": [
+      "kyc"
+    ],
+    "signature_change": [
+      "kyc"
+    ]
+  },
+  "_comment_gnsa_portal": "GNSA portal URL not yet supplied. Never invent it; use the words 'GNSA portal' only for GNSA submission, assistance or tracking steps.",
+  "gnsa_profile_facts": {
+    "signature_mismatch": "uploads/Registry/gnsa_registry_service_facts.json",
+    "signature_change": "uploads/Registry/gnsa_registry_service_facts.json"
+  }
+}

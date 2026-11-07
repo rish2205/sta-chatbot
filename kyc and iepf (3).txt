@@ -1,0 +1,80 @@
+1) How can I complete my KYC process?
+
+To complete your KYC for physical securities, please submit Form ISR-1 along with the required supporting documents through either of the following methods:
+
+By Post/Courier: Send the duly completed and signed Form ISR-1 along with the required self-attested supporting documents to GNSA INFOTECH PRIVATE LIMITED
+Applicable Forms:
+Form ISR-1: For updating KYC details such as PAN, address, email ID, mobile number and bank account details.
+Form ISR-2: For confirmation of signature and bank details by the shareholder’s banker, wherever applicable.
+Form SH-13: For registering a nominee.
+Form ISR-3: For opting out of nomination.
+Please submit the applicable duly completed and signed form(s), along with the required self-attested documents such as the shareholder’s PAN Card, Aadhaar Card, cancelled cheque leaf and Client Master List (CML), wherever applicable, to the RTA for updating your records.
+For the latest forms, document requirements and submission procedures, please visit our website: www.gnsaindia.com
+For shareholders holding shares in demat form, please contact your respective Depository Participant (DP) to update your KYC details.
+
+2)How can I make my folio KYC compliant?
+
+To make your physical folio KYC compliant, you are required to submit the applicable KYC forms with all the necessary details and supporting documents. 
+The completed forms and documents may be submitted in person, by post, or through courier to the GNSA INFOTECH PRIVATE LIMITED
+For Form ISR-1, please provide the date, company name, folio number, share details, demat account number, PAN linked with Aadhaar wherever applicable, address, contact details, email ID, bank account details and shareholder signature.
+For Form ISR-2, please provide the bank name and address, account opening date, shareholder name, address, mobile number, email ID, banker name, banker Employee ID and banker email ID. 
+The form should also contain the shareholder’s photograph and signature and the banker’s signature and bank seal, wherever applicable.
+For Form SH-13, if you wish to register a nominee, please provide the company name, share details, nominee details, shareholder name, witness name and address, along with the shareholder’s signature and witness signature.
+For Form ISR-3, if you do not wish to register a nominee, please provide the company name, share details, shareholder name and shareholder signature.
+Please submit the duly completed and signed applicable form(s), along with the required self-attested supporting documents 
+such as the shareholder’s PAN card, Aadhaar card, cancelled cheque leaf and Client Master List (CML), wherever applicable, to the GNSA INFOTECH PRIVATE LIMITED for verification and updating of your records.
+Once the submitted documents are verified and the KYC details are successfully updated, a confirmation email will be sent to the shareholder’s registered email ID. Thereafter, the folio will be treated as KYC compliant, subject to the applicable regulatory requirements.
+
+
+3) What documents are acceptable for KYC
+
+For KYC verification, you may submit your PAN Card, Aadhaar Card/address proof, cancelled cheque leaf or bank statement/passbook, and Client Master List (CML), wherever applicable. 
+Please ensure that the documents are self-attested and submitted along with the applicable KYC form(s) such as ISR-1, ISR-2, SH-13 or ISR-3.
+
+
+4)Signature mismatch
+
+A signature mismatch occurs when the signature provided in your request does not match the specimen signature registered with the Company’s GNSA INFOTECH PRIVATE LIMITED for your folio.
+To resolve the signature mismatch, please submit SEBI Form ISR-2, duly completed and authenticated by your banker, along with a cancelled cheque leaf for verification and updating of your signature records.
+
+
+5)Change in specimen signature
+
+To update or change your specimen signature in the GNSA INFOTECH PRIVATE LIMITED records, please submit Form ISR-2, duly completed and signed by the shareholder and authenticated by the banker, along with a cancelled cheque leaf and the required KYC documents.
+The banker is required to verify and attest the shareholder’s signature as prescribed in Form ISR-2. Please ensure that the signature provided in the form matches the signature attested by the banker.
+You may submit the completed form along with the required supporting documents to the GNSA INFOTECH PRIVATE LIMITED by post/courier or through the prescribed submission process. The GNSA INFOTECH PRIVATE LIMITED will verify the documents and update the specimen signature in its records, subject to the applicable regulatory requirements.
+
+6)What is IEPF?
+
+IEPF stands for Investor Education and Protection Fund. It is a fund established by the Government of India under the Companies Act, 2013, to promote investor awareness and protect investors’ interests.
+Where dividends remain unpaid or unclaimed for the prescribed period of 7 years, the applicable dividend amount and, in certain cases, the corresponding shares are transferred to the IEPF in accordance with the applicable regulations.
+Shareholders whose shares or amounts have been transferred to the IEPF may claim them from the Investor Education and Protection Fund Authority (IEPFA) by following the prescribed procedure.
+
+
+7)What is SRN?
+
+SRN stands for Service Request Number. It is a unique reference number generated for a shareholder’s service request submitted to the GNSA INFOTECH PRIVATE LIMITED.
+The SRN can be used to track the status of the request and for future communication with the GNSA INFOTECH PRIVATE LIMITED regarding the same request. Please quote the SRN when contacting the GNSA INFOTECH PRIVATE LIMITED for any follow-up or clarification.
+
+8) how to get entitlement letter?
+
+If the shareholder is in possession of the original share certificate, the shareholder may file Form IEPF-5 through the MCA portal to generate the Service Request Number (SRN) and initiate the IEPF claim process.
+If the shareholder does not have the original share certificate, or in cases involving transmission of shares, the shareholder/claimant is required to contact the GNSA INFOTECH PRIVATE LIMITED to obtain the applicable Entitlement Letter.
+The shareholder/claimant should then follow the IEPF claim procedure prescribed by the GNSA INFOTECH PRIVATE LIMITED and submit the required documents for processing of the claim.
+Loss of Share Certificate: Please follow the applicable Loss of Share Certificate procedure.
+Transmission of Shares: Please follow the applicable Transmission procedure.
+
+9) IEPF online sample forms and procedures
+
+For claiming shares or amounts transferred to the IEPF, the shareholder/claimant is required to follow the prescribed IEPF claim procedure.
+The shareholder/claimant should first file Form IEPF-5 online through the MCA portal and generate the Service Request Number (SRN). After filing IEPF-5, the claimant should follow the applicable procedure prescribed by the GNSA INFOTECH PRIVATE LIMITED and submit the required documents for verification and processing.
+The documents and procedure may vary depending on the nature of the claim. For example, claims involving loss of share certificates or transmission of shares may require additional documents and must follow the respective procedures prescribed by the GNSA INFOTECH PRIVATE LIMITED.
+Please download our IEPF Help Kit from our website for guidance on the filing process, required documents.
+https://www.gnsaindia.com/kyc.php
+
+10) transfer of unclaimed unpaid dividend to iepf ?
+ 
+Unclaimed or unpaid dividend is transferred to the Investor Education and Protection Fund (IEPF) by the Company, and no action is required from the shareholder for the transfer.
+Any dividend amount remaining unpaid or unclaimed for seven years from the date of transfer to the Company’s Unpaid Dividend Account is transferred to the IEPF, along with the applicable accrued interest, in accordance with the provisions of the Companies Act, 2013.
+Before the transfer to IEPF, eligible shareholders may contact the GNSA INFOTECH PRIVATE LIMITED to claim the unpaid dividend.
+After the amount is transferred to IEPF, the shareholder/claimant can claim the eligible amount from the IEPF Authority by filing Form IEPF-5 through the MCA portal and following the prescribed claim procedure.

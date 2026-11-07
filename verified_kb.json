@@ -1,0 +1,99 @@
+[
+  {
+    "id": "iepf-claim-process",
+    "status": "draft",
+    "question": "How do I claim shares or unclaimed dividend transferred to IEPF?",
+    "keywords": [
+      "iepf",
+      "iepf-5",
+      "claim",
+      "refund",
+      "unclaimed",
+      "shares",
+      "dividend"
+    ],
+    "answer": "File Form IEPF-5 online on the IEPF website (iepf.gov.in). Take a printout of the filled form and the acknowledgement generated after upload, and send them with the other documents listed in the form (including an indemnity bond in original where required) to the Nodal Officer (IEPF) of the company at its registered office, in an envelope marked 'Claim for refund from IEPF Authority'. The company verifies the claim and forwards it to the IEPF Authority for approval.",
+    "sources": [
+      {
+        "title": "IEPF - Refund from IEPF",
+        "url": "https://www.iepf.gov.in/IEPF/refund.html"
+      }
+    ],
+    "reviewed_on": null,
+    "reviewed_by": null
+  },
+  {
+    "id": "nomination-forms",
+    "status": "draft",
+    "question": "Which forms are used for nomination in physical folios?",
+    "keywords": [
+      "nomination",
+      "nominee",
+      "sh-13",
+      "sh-14",
+      "isr-3",
+      "opt",
+      "physical"
+    ],
+    "answer": "For physical holdings, nomination is made through Form SH-13. A nomination can be changed or cancelled through Form SH-14. A holder who does not want to nominate submits the opt-out declaration, Form ISR-3. Nomination or opt-out is furnished separately for each listed company.",
+    "sources": [
+      {
+        "title": "SEBI FAQs (Jan 2026)",
+        "url": "https://www.sebi.gov.in/sebi_data/faqfiles/jan-2026/1767611333081.pdf"
+      }
+    ],
+    "reviewed_on": null,
+    "reviewed_by": null
+  },
+  {
+    "id": "kyc-forms",
+    "status": "draft",
+    "question": "Which forms are used to register PAN and KYC details or a specimen signature for physical folios?",
+    "keywords": [
+      "kyc",
+      "pan",
+      "isr-1",
+      "isr-2",
+      "signature",
+      "bank",
+      "physical",
+      "folio"
+    ],
+    "answer": "KYC details and PAN for physical folios are submitted to GNSA in Form ISR-1, which can also authorise GNSA to update the details across the holder's other folios with GNSA. The specimen signature is registered through Form ISR-2.",
+    "sources": [
+      {
+        "title": "SEBI FAQs (Jan 2026)",
+        "url": "https://www.sebi.gov.in/sebi_data/faqfiles/jan-2026/1767611333081.pdf"
+      }
+    ],
+    "reviewed_on": null,
+    "reviewed_by": null
+  },
+  {
+    "id": "transmission-2026",
+    "status": "draft",
+    "question": "How is transmission of securities done after the death of a holder?",
+    "keywords": [
+      "transmission",
+      "transmit",
+      "death",
+      "deceased",
+      "legal",
+      "heir",
+      "nominee",
+      "qtp",
+      "indemnity",
+      "affidavit",
+      "claimant"
+    ],
+    "answer": "Under SEBI circular HO/38/13/11(14)2026-MIRSD-POD/I/17111/2026 dated 23 July 2026 (effective 22 August 2026): (1) Nominee registered: Annexure 3 request form plus common documents (latest CML of claimant's demat account, verifiable death certificate, original certificate/SOA). (2) No nominee, very low value (QTP: up to Rs 10,000 physical / Rs 30,000 demat, immediate relatives only: spouse, child, parent, parent-in-law): Annexure 2 request form-cum-undertaking on plain paper with relationship proof (Annexure 2-A/2-B). (3) No nominee, simplified documentation (up to Rs 10 lakh physical / Rs 30 lakh demat): Annexure 3 + notarised Bond of Indemnity (Annexure 4) + notarised Affidavit-cum-No Objection (Annexure 5), or a court succession document / family settlement deed. (4) No nominee, above those limits: Annexure 3 + Annexure 5 + one of Will with indemnity bond, Legal Heirship Certificate with indemnity bond, or court succession documents. Also KYC of claimant, nomination or opt-out form, FATCA-CRS where applicable. Settlement within 21 calendar days of receiving complete documents. Annexure 1 is the grid summarising these requirements.",
+    "sources": [
+      {
+        "title": "SEBI circular on simplification and standardisation of the framework for transmission of securities (23 Jul 2026)",
+        "url": "https://www.sebi.gov.in/legal/circulars/jul-2026/ease-of-doing-investment-and-ease-of-doing-business-simplification-and-standardisation-of-the-framework-for-transmission-of-securities_103030.html"
+      }
+    ],
+    "reviewed_on": null,
+    "reviewed_by": null
+  }
+]

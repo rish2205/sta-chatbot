@@ -1,0 +1,224 @@
+[
+  {
+    "id": "kyc",
+    "label": "KYC",
+    "questions": [
+      {
+        "q": "How can I complete my KYC process?",
+        "forms": null
+      },
+      {
+        "q": "How can I make my folio KYC compliant?",
+        "forms": null
+      },
+      {
+        "q": "What documents are acceptable for KYC?",
+        "forms": null
+      }
+    ]
+  },
+  {
+    "id": "iepf",
+    "label": "IEPF",
+    "questions": [
+      {
+        "q": "What is IEPF?",
+        "forms": null
+      },
+      {
+        "q": "What is SRN?",
+        "forms": null
+      },
+      {
+        "q": "How do I get an entitlement letter?",
+        "forms": null
+      },
+      {
+        "q": "IEPF online sample forms and procedures",
+        "forms": null
+      },
+      {
+        "q": "Transfer of unclaimed/unpaid dividend to IEPF",
+        "forms": null
+      }
+    ]
+  },
+  {
+    "id": "registry",
+    "label": "Registry",
+    "questions": [
+      {
+        "q": "What does a Registrar and Share Transfer Agent (RTA) do?",
+        "forms": null
+      },
+      {
+        "q": "How do I get a duplicate share certificate if mine is lost?",
+        "forms": null
+      },
+      {
+        "q": "Which form do I use for a GNSA service request?",
+        "forms": null
+      },
+      {
+        "q": "What is transposition of shares?",
+        "forms": null
+      },
+      {
+        "q": "How do I get transposition done for my physical shares?",
+        "forms": null
+      },
+      {
+        "q": "How long does GNSA take to process a service request?",
+        "forms": null
+      },
+      {
+        "q": "Can physical shares be transferred to another person now?",
+        "forms": null
+      },
+      {
+        "q": "Signature mismatch",
+        "forms": null
+      },
+      {
+        "q": "Change in specimen signature",
+        "forms": null
+      }
+    ]
+  },
+  {
+    "id": "nomination",
+    "label": "Nomination",
+    "questions": [
+      {
+        "q": "What is nomination and who can nominate?",
+        "forms": null
+      },
+      {
+        "q": "How do I add a nominee to my physical folio?",
+        "forms": null
+      },
+      {
+        "q": "How do I change or cancel an existing nomination?",
+        "forms": null
+      },
+      {
+        "q": "How do I opt out of nomination?",
+        "forms": null
+      },
+      {
+        "q": "Can I nominate more than one person?",
+        "forms": null
+      },
+      {
+        "q": "What happens to my shares if I have not nominated anyone?",
+        "forms": null
+      }
+    ]
+  },
+  {
+    "id": "transmission",
+    "label": "Transmission",
+    "questions": [
+      {
+        "q": "What is transmission of shares?",
+        "forms": null
+      },
+      {
+        "q": "How do I request transmission of shares as a nominee or legal heir?",
+        "forms": null
+      },
+      {
+        "q": "What documents are needed for transmission on the death of a holder?",
+        "forms": null
+      },
+      {
+        "q": "How are shares transmitted when there is a nominee?",
+        "forms": null
+      },
+      {
+        "q": "How are shares transmitted when there is no nominee?",
+        "forms": null
+      },
+      {
+        "q": "What is Quick Transmission Processing (QTP) for low-value claims?",
+        "forms": null
+      },
+      {
+        "q": "What is needed for a high-value holding with no nominee?",
+        "forms": null
+      },
+      {
+        "q": "What are the indemnity bond and affidavit-cum-no-objection formats for legal heirs?",
+        "forms": null
+      },
+      {
+        "q": "What is transmission-cum-dematerialisation?",
+        "forms": null
+      },
+      {
+        "q": "How long does transmission take?",
+        "forms": null
+      }
+    ]
+  },
+  {
+    "id": "dividend",
+    "label": "Dividend",
+    "questions": [
+      "How do I claim an unpaid dividend?",
+      "Why have I not received my dividend?",
+      {
+        "q": "How do I update my bank details to receive dividend?",
+        "forms": null
+      },
+      {
+        "q": "How is dividend paid to holders of physical shares?",
+        "forms": null
+      },
+      {
+        "q": "What is a record date for dividend?",
+        "forms": null
+      },
+      "What can I do if my dividend warrant has expired?",
+      "How can I check if my unclaimed dividend moved to IEPF?"
+    ]
+  },
+  {
+    "id": "demat",
+    "label": "Demat",
+    "questions": [
+      {
+        "q": "How do I convert my physical shares to demat form?",
+        "forms": null
+      },
+      {
+        "q": "I received a Letter of Confirmation from GNSA. What do I do next?",
+        "forms": null
+      },
+      {
+        "q": "Is demat mandatory to transfer shares of a listed company?",
+        "forms": null
+      },
+      {
+        "q": "What is the difference between physical and electronic shares?",
+        "forms": null
+      },
+      {
+        "q": "What is a DRN in dematerialisation?",
+        "forms": null
+      },
+      {
+        "q": "How long does dematerialisation take?",
+        "forms": null
+      },
+      {
+        "q": "Can I dematerialise shares held in joint names?",
+        "forms": null
+      },
+      {
+        "q": "What is a Client Master List (CML) and why is it needed?",
+        "forms": null
+      }
+    ]
+  }
+]

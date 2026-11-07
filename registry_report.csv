@@ -1,0 +1,208 @@
+﻿id,topic,type,question,bot_kind,auto_pass,auto_note,answer,sources,forms_shown,human_verdict
+R01,registry,in_scope,How do I get a duplicate share certificate if my physical certificate is lost?,answer,True,,"If your physical share certificate is lost, here are the steps you should follow as per SEBI’s latest regulations and official procedures:
+
+• Prepare and submit **Form ISR‑4** (Request for Issue of Duplicate Certificate), duly completed. This form is mandated for all investor service requests related to physical securities—including duplicate certificates. You must also provide your **latest Client Master List (CML)**—not older than two months—attested by your Depository Participant (DP) ([sebi.gov.in](https://www.sebi.gov.in/sebi_data/commondocs/jan-2026/Form%20ISR-4-revised_p.pdf)).
+
+• Furnish an **Affidavit‑cum‑Indemnity bond** or **Undertaking**, as prescribed under SEBI’s Master Circular (June 23, 2025, SEBI/HO/MIRSD/MIRSD‑PoD/P/CIR/2025/91). This is required regardless of the value of the securities ([sebi.gov.in](https://www.sebi.gov.in/sebi_data/faqfiles/sep-2024/1727418250017.pdf)).
+
+• If the **value of the lost securities exceeds ₹5 lakh** (based on closing price one day prior to application), you must also submit:
+  – A **copy of the FIR**, e‑FIR, police complaint, court injunction order, or plaint (accepted by court and with suit number), which must mention folio, distinctive number range, and certificate number(s), and
+  – An **advertisement** issued in a widely‑circulated newspaper, announcing loss of the securities ([sebi.gov.in](https://www.sebi.gov.in/sebi_data/faqfiles/sep-2024/1727418250017.pdf)).
+
+• If the value is **₹5 lakh or below**, the FIR and advertisement are **not required** ([sebi.gov.in](https://www.sebi.gov.in/web/?file=https%3A%2F%2Fwww.sebi.gov.in%2Fsebi_data%2Fattachdocs%2Fmay-2022%2F1653976199426.pdf)).
+
+Once you submit the above:
+- Under the SEBI circular dated January 30, 2026 (HO/38/13/…/2026), the requirement for issuance of a **Letter of Confirmation (LOC)** has been removed. Instead, RTAs will **directly credit the equivalent shares to your demat account**, upon due diligence, using the CML and Form ISR‑4 ([sebi.gov.in](https://www.sebi.gov.in/web/?file=https%3A%2F%2Fwww.sebi.gov.in%2Fsebi_data%2Fattachdocs%2Fjan-2026%2F1769773760624.pdf)).
+- The physical certificate is **not issued** in lieu of lost one; instead, dematerialisation is the route, and the securities are credited to your account.
+- Ensure your demat account is active and your DP attests the CML.
+
+Summary of steps:
+1. Fill and submit **Form ISR‑4** along with attested CML.
+2. Submit **Affidavit‑cum‑Indemnity bond** or Undertaking as per SEBI Master Circular.
+3. If securities value > ₹5 lakh, also submit FIR copy and newspaper advertisement.
+4. RTA will process and directly credit shares to your demat account—no LOC needed.",https://www.sebi.gov.in/sebi_data/commondocs/jan-2026/Form%20ISR-4-revised_p.pdf | https://www.sebi.gov.in/sebi_data/faqfiles/sep-2024/1727418250017.pdf | https://www.sebi.gov.in/web/?file=https%3A%2F%2Fwww.sebi.gov.in%2Fsebi_data%2Fattachdocs%2Fmay-2022%2F1653976199426.pdf | https://www.sebi.gov.in/web/?file=https%3A%2F%2Fwww.sebi.gov.in%2Fsebi_data%2Fattachdocs%2Fjan-2026%2F1769773760624.pdf,,
+R02,registry,in_scope,What documents are needed for transmission of shares on the death of a holder?,answer,True,,"For transmission of shares following the death of a holder, the applicable framework is SEBI’s circular **HO/38/13/11(14)2026‑MIRSD‑POD/I/17111/2026 dated 23 July 2026**, effective from 22 August 2026, which standardises documentation and procedures. It supersedes earlier requirements. The documents differ based on whether a nominee exists, and the value of securities involved:
+
+1. **Nominee registered**:  
+   – Use **Annexure TX‑3** (Transmission Request Form for nominee and non‑QTP cases) along with:  
+     • Latest Client Master List (CML) of claimant’s demat account  
+     • Verifiable death certificate of the deceased  
+     • Original share certificate(s) or Statement of Account  
+
+2. **No nominee, very low value cases (QTP limits)** – simplified path for immediate relatives (spouse, child, parent, parent‑in‑law):  
+   – Use **Annexure TX‑2** (QTP request form‑cum‑undertaking) on plain paper with proof of relationship (either TX‑2‑A or TX‑2‑B annexure)  
+
+3. **No nominee, simplified documentation (higher thresholds)** (up to ₹10 lakh physical / ₹30 lakh demat):  
+   – Use **Annexure TX‑3**, along with:  
+     • Notarised **Bond of Indemnity** (**Annexure TX‑4**)  
+     • Notarised **Affidavit‑cum‑No Objection** (**Annexure TX‑5**)  
+     – Alternatively, submit a court succession document or family settlement deed  
+
+4. **No nominee, above those limits**:  
+   – Use **Annexure TX‑3**, plus **Annexure TX‑5**, and one of the following:  
+     • Will with indemnity bond  
+     • Legal Heirship Certificate with indemnity bond  
+     • Court succession documents  
+
+In all cases, the claimant must also submit KYC documents, a nomination or opt‑out form if applicable, and FATCA‑CRS declarations where applicable. The process must be completed within 21 calendar days from the receipt of complete documents ([sebi.gov.in](https://www.sebi.gov.in/legal/circulars/jul-2026/ease-of-doing-investment-and-ease-of-doing-business-simplification-and-standardisation-of-the-framework-for-transmission-of-securities_103030.html)).
+
+Summary table (based on SEBI circular of 23 July 2026):
+
+• Nominee exists → **TX‑3** + CML + death certificate + original certificate/SOA  
+• No nominee, very low value → **TX‑2** + relationship proof  
+• No nominee, up to thresholds → **TX‑3** + **TX‑4** + **TX‑5** (or succession/family deed)  
+• No nominee, above thresholds → **TX‑3** + **TX‑5** + Will or legal heirship/court document",https://www.sebi.gov.in/legal/circulars/jul-2026/ease-of-doing-investment-and-ease-of-doing-business-simplification-and-standardisation-of-the-framework-for-transmission-of-securities_103030.html,,
+R03,registry,in_scope,How do I change my name in the company's records for physical shares?,answer,True,,"To change your name in the company’s records for **physical shares**, here is the procedure based solely on SEBI’s official guidance for investor service requests:
+
+- This falls under **Investor Service Request — Name change**, which is listed as a valid request within SEBI’s FAQs on ISR (Investor Service Requests). SEBI stipulates that a “change in name” is processed like other KYC/updation requests and must be submitted using **Form ISR‑1** to the RTA or company. Processing timeline for a name change request is **30 days** ([sebi.gov.in](https://www.sebi.gov.in/web/?file=https%3A%2F%2Fwww.sebi.gov.in%2Fsebi_data%2Ffaqfiles%2Fjan-2026%2F1767611333081.pdf)).
+
+- You must submit **Form ISR‑1**, duly signed by shareholder(s), to the RTA or company’s share transfer department.
+
+- You need to attach valid supporting documents depending on the type of name change:
+  - For name change due to **marriage**: submit a **marriage certificate**, or a valid **passport** reflecting the new name (showing spouse’s name), or **publication of name change in the Official Gazette**, **along with a document evidencing the old name**, such as Aadhaar, PAN, passport, driving licence, or any government-issued ID ([sebi.gov.in](https://www.sebi.gov.in/web/?file=https%3A%2F%2Fwww.sebi.gov.in%2Fsebi_data%2Ffaqfiles%2Fjan-2026%2F1767611333081.pdf)).
+  - For name change for **reasons other than marriage**: you must provide the **publication of the name change in the Official Gazette** plus a document evidencing the old name, from the same list ([sebi.gov.in](https://www.sebi.gov.in/web/?file=https%3A%2F%2Fwww.sebi.gov.in%2Fsebi_data%2Ffaqfiles%2Fjan-2026%2F1767611333081.pdf)).
+
+- Once submitted and processed, the RTA or company will update your folio accordingly.
+
+Because the **transfer of physical shares is generally disallowed since April 1, 2019**, but **name change (title change)** is still permitted as a special investor service request under SEBI’s master circular framework ([sebi.gov.in](https://www.sebi.gov.in/web/?file=https%3A%2F%2Fwww.sebi.gov.in%2Fsebi_data%2Ffaqfiles%2Fjan-2026%2F1767611333081.pdf)), you can proceed with this older non-transfer request.
+
+Summary of steps:
+1. Download and complete **Form ISR‑1** (available on the RTA’s or company’s site).
+2. Attach required proof: 
+   - For marriage case — marriage certificate or passport (with spouse), plus proof of old name;
+   - For other cases — Official Gazette plus proof of old name.
+3. Submit to the RTA or company’s share department.
+4. Wait up to **30 days** for processing.",https://www.sebi.gov.in/web/?file=https%3A%2F%2Fwww.sebi.gov.in%2Fsebi_data%2Ffaqfiles%2Fjan-2026%2F1767611333081.pdf,,
+R04,registry,in_scope,How do I update my bank account details with the RTA for physical shares?,answer,False,missing keywords: ISR-1,"To update your bank account details with the Registrar to an Issue and Share Transfer Agent (RTA) for physical shares, here is the official procedure based on SEBI’s latest guidance:
+
+• Use **Form ISR‑1**, duly signed by the shareholder, to request the bank details update. This form can be downloaded from the website of the listed company or the RTA. ([sebi.gov.in](https://www.sebi.gov.in/web/?file=https%3A%2F%2Fwww.sebi.gov.in%2Fsebi_data%2Ffaqfiles%2Fjan-2026%2F1767611333081.pdf))
+
+• Along with ISR‑1, submit either:
+  – An **original cancelled cheque** in the name of the first holder, or  
+  – A **bank statement or passbook**, specifying bank name, branch, account number, and IFSC, **attested by the bank manager**. ([sebi.gov.in](https://www.sebi.gov.in/sebi_data/faqfiles/jul-2025/1752726453064.pdf))
+
+• If the PAN is not already registered in the folio, attach a **self‑attested copy of the PAN card**. ([sebi.gov.in](https://www.sebi.gov.in/sebi_data/faqfiles/jul-2025/1752726453064.pdf))
+
+Once submitted, the RTA will update your bank details (processing timeline is generally 15 days) and ensure that:
+• All future payments like dividends or interest are made via electronic mode to your new bank account. ([sebi.gov.in](https://www.sebi.gov.in/sebi_data/faqfiles/jul-2025/1752726453064.pdf))  
+• Any pending or unclaimed payouts (dividends, redemptions, etc.) are proactively credited electronically without requiring a separate request. ([sebi.gov.in](https://www.sebi.gov.in/sebi_data/faqfiles/jul-2025/1752726453064.pdf))",https://www.sebi.gov.in/web/?file=https%3A%2F%2Fwww.sebi.gov.in%2Fsebi_data%2Ffaqfiles%2Fjan-2026%2F1767611333081.pdf | https://www.sebi.gov.in/sebi_data/faqfiles/jul-2025/1752726453064.pdf | https://www.sebi.gov.in/sebi_data/faqfiles/jan-2026/1767611333081.pdf,,
+R05,registry,in_scope,How do I register or change my specimen signature with the RTA?,answer,False,missing keywords: ISR-2,"If you need to register or update your specimen signature with the Registrar to an Issue and Share Transfer Agent (RTA), here’s the official process as per SEBI’s current guidelines:
+
+- As per SEBI’s FAQ for Investor Service Requests (updated January 2026), in case of a **major mismatch or non-availability of specimen signature**, the RTA, while processing your service request, must notify you via speed post, email, and SMS ([sebi.gov.in](https://www.sebi.gov.in/sebi_data/faqfiles/jan-2026/1767611333081.pdf)).
+- You may then update your specimen signature using **Form ISR‑1**, and complete one of the two options:
+
+  **Option A**:
+  • Submit either:
+    - An **original cancelled cheque** with your name pre‑printed; or  
+    - A **self‑attested copy** of your bank passbook or bank statement; and  
+    - **Banker’s attestation** of your signature (from the same account) using **Form ISR‑2** ([sebi.gov.in](https://www.sebi.gov.in/sebi_data/faqfiles/jan-2026/1767611333081.pdf)).
+
+  **Option B**:
+  • Visit the RTA office **in person**, sign in front of authorized personnel, and present your **PAN card** along with **one additional original ID document** (such as UID/Aadhaar, passport, driving license, or government‑issued ID). Also submit **self‑attested copies** of these documents ([sebi.gov.in](https://www.sebi.gov.in/sebi_data/faqfiles/jan-2026/1767611333081.pdf)).
+
+- SEBI’s Master Circular (June 23, 2025) sets a timeline of **30 days** for RTAs to process specimen signature updates ([sebi.gov.in](https://www.sebi.gov.in/web/?file=https%3A%2F%2Fwww.sebi.gov.in%2Fsebi_data%2Ffaqfiles%2Fjan-2026%2F1767611333081.pdf)).
+
+To summarize:
+
+Steps to register/change specimen signature with the RTA:
+1. RTA notifies you of mismatch or missing signature via post, email, SMS.
+2. Fill and submit **Form ISR‑1**.
+3. Complete either:
+   - Option A: Cheque/passbook plus Form ISR‑2 attestation; or  
+   - Option B: In‑person submission with PAN + one ID proof.
+4. RTA processes the update within **30 days**.
+
+ No other affidavits, notarizations, or indemnities are required for this request as per SEBI norms.",https://www.sebi.gov.in/sebi_data/faqfiles/jan-2026/1767611333081.pdf | https://www.sebi.gov.in/web/?file=https%3A%2F%2Fwww.sebi.gov.in%2Fsebi_data%2Ffaqfiles%2Fjan-2026%2F1767611333081.pdf,,
+R06,registry,in_scope,What is the role of a Registrar and Share Transfer Agent?,answer,True,,"Here is the role of a Registrar to an Issue and Share Transfer Agent (RTA/STA) in India, as defined under the SEBI framework:
+
+• Under SEBI’s Registrar to an Issue and Share Transfer Agent Regulations, 1993, a Registrar and Share Transfer Agent is a person appointed by a corporate entity to act on its behalf in two capacities—Registrar to an Issue (RTI) and Share Transfer Agent (STA) ([sebi.gov.in](https://www.sebi.gov.in/web/?file=https%3A%2F%2Fwww.sebi.gov.in%2Fsebi_data%2Ffaqfiles%2Fjan-2026%2F1767611333081.pdf)).
+
+• As Registrar to an Issue, the RTA handles functions related to new securities issuance:
+  - Coordinates allotment and provides details and clarifications on allotment
+  - Acts as an intermediary in processes like IPOs, follow-on offers, listing of debt securities, amalgamations and mergers ([sebi.gov.in](https://www.sebi.gov.in/web/?file=https%3A%2F%2Fwww.sebi.gov.in%2Fsebi_data%2Ffaqfiles%2Fjan-2026%2F1767611333081.pdf)).
+
+• As Share Transfer Agent, the RTA manages ongoing corporate and investor-related activities:
+  - Processes KYC updations (e.g., address, bank, PAN, nomination), transmission, transposition, issuance of duplicate certificates, dematerialisation/rematerialisation of securities ([sebi.gov.in](https://www.sebi.gov.in/web/?file=https%3A%2F%2Fwww.sebi.gov.in%2Fsebi_data%2Ffaqfiles%2Fjan-2026%2F1767611333081.pdf)).
+  - Manages various corporate actions such as ESOPs, dividends, stock splits, bonus issues, mergers/demergers, rights issue communications, buyback or takeover communications ([sebi.gov.in](https://www.sebi.gov.in/web/?file=https%3A%2F%2Fwww.sebi.gov.in%2Fsebi_data%2Ffaqfiles%2Fjan-2026%2F1767611333081.pdf)).
+  - Handles declarations for TDS exemptions or lower rates, and revalidation or reissue of dividend/interest instruments ([sebi.gov.in](https://www.sebi.gov.in/web/?file=https%3A%2F%2Fwww.sebi.gov.in%2Fsebi_data%2Ffaqfiles%2Fjan-2026%2F1767611333081.pdf)).
+  - Works with IEPF transfers and unclaimed suspense accounts; responds to investor grievances via SCORES or letters ([sebi.gov.in](https://www.sebi.gov.in/web/?file=https%3A%2F%2Fwww.sebi.gov.in%2Fsebi_data%2Ffaqfiles%2Fjan-2026%2F1767611333081.pdf)).
+
+• RTAs also maintain accurate investor records, facilitate efficient investor service and ensure regulatory compliance with SEBI. They serve as a bridge between investors, companies, and depositories ([investor.sebi.gov.in](https://investor.sebi.gov.in/hindi/registrar_and_transfer_agents.html)).
+
+• Filing, record-keeping, and oversight obligations include:
+  - Maintaining accounts and documents for preceding financial years, including balance sheet, P&L, auditor’s report, and capital adequacy statements ([sebi.gov.in](https://www.sebi.gov.in/sebi_data/commondocs/rtaregulations1993_p.pdf)).
+  - Retaining records such as security holders’ lists, transferor/transferee details, and transfer dates—retained for at least eight years ([sebi.gov.in](https://www.sebi.gov.in/sebi_data/attachdocs/jun-2018/1528714996304.pdf)).
+  - Appointing a compliance officer responsible for monitoring SEBI compliance and investor grievance redressal ([sebi.gov.in](https://www.sebi.gov.in/sebi_data/attachdocs/jun-2018/1528714996304.pdf)).
+
+• Additionally, RTAs must not engage in market manipulation or insider trading; employees must not provide investment advice without appropriate disclosures ([sebi.gov.in](https://www.sebi.gov.in/acts/act132.html)).
+
+In summary, a Registrar to an Issue and Share Transfer Agent plays a multifaceted role—facilitating capital-raising processes, managing investor servicing, orchestrating corporate actions, maintaining records, and ensuring compliance—all under SEBI’s regulatory framework.",https://www.sebi.gov.in/web/?file=https%3A%2F%2Fwww.sebi.gov.in%2Fsebi_data%2Ffaqfiles%2Fjan-2026%2F1767611333081.pdf | https://investor.sebi.gov.in/hindi/registrar_and_transfer_agents.html | https://www.sebi.gov.in/sebi_data/commondocs/rtaregulations1993_p.pdf | https://www.sebi.gov.in/sebi_data/attachdocs/jun-2018/1528714996304.pdf | https://www.sebi.gov.in/acts/act132.html,,
+R07,registry,in_scope,Can physical shares of a listed company be transferred to another person now?,answer,True,,"Physical transfer of shares of a listed company in India—that is, transferring ownership via physical share certificates—is **not allowed** since April 1, 2019. As per SEBI’s Master Circular for RTAs (SEBI/HO/MIRSD/MIRSD‑PoD/P/CIR/2025/91 dated June 23, 2025) and related FAQs, only dematerialized shares can be transferred.([sebi.gov.in](https://www.sebi.gov.in/web/?file=https%3A%2F%2Fwww.sebi.gov.in%2Fsebi_data%2Ffaqfiles%2Fjan-2026%2F1767611333081.pdf))
+
+However, investors who still hold physical share certificates can still transfer them—but **only via a special process**:
+
+• They must first **dematerialize** the physical shares by opening a demat account and submitting the physical certificates for rematerialization.([sebi.gov.in](https://www.sebi.gov.in/web/?file=https%3A%2F%2Fwww.sebi.gov.in%2Fsebi_data%2Ffaqfiles%2Fjan-2026%2F1767611333081.pdf))  
+• Following dematerialization, the shares can be transferred electronically through the demat system.([sebi.gov.in](https://www.sebi.gov.in/web/?file=https%3A%2F%2Fwww.sebi.gov.in%2Fsebi_data%2Ffaqfiles%2Fjan-2026%2F1767611333081.pdf))
+
+That said, SEBI has provided a **Special Window** for physical share transfers that were sold or bought before April 1, 2019, including those where earlier transfer requests were rejected or returned. Under this window (SEBI circular HO/38/13/11(2)2026‑MIRSD‑POD/I/3750/2026 dated January 30, 2026), such physical transfers can be processed, but again **only in demat mode** and with a mandatory **one-year lock-in from the date of demat credit**.([sebi.gov.in](https://www.sebi.gov.in/sebi_data/attachdocs/jan-2026/1769772850270.pdf))
+
+In summary:
+
+- **Physical shares cannot be transferred directly** via physical mode for any listed company.
+- Transfer is possible **only after dematerialization** of the shares.
+- A **special transfer window (Feb 5, 2026 – Feb 4, 2027)** is open for older physical shares (pre-April 1, 2019) to be transferred and dematerialized, with lock-in.([sebi.gov.in](https://www.sebi.gov.in/sebi_data/attachdocs/jan-2026/1769772850270.pdf))
+
+Therefore, to transfer physical shares now, you must dematerialize them first, and optionally use the special window if they were held or sold before April 1, 2019.",https://www.sebi.gov.in/web/?file=https%3A%2F%2Fwww.sebi.gov.in%2Fsebi_data%2Ffaqfiles%2Fjan-2026%2F1767611333081.pdf | https://www.sebi.gov.in/sebi_data/attachdocs/jan-2026/1769772850270.pdf,,
+R08,registry,in_scope,Which form do I use for service requests like duplicate certificate or transposition?,answer,False,missing keywords: ISR-4,"For service requests such as **duplicate share certificate** or **transposition** (i.e., change in order of joint holders), SEBI's **Master Circular for Registrars to an Issue and Share Transfer Agents** dated June 23, 2025 (and any updates thereafter) and related SEBI circulars prescribe the use of **Form ISR‑4**.
+
+Key points:
+
+• SEBI’s Master Circular dated June 23, 2025 lists various investor service requests—including duplicate & replacement of securities certificates, transmission, and transposition—that are to be processed by RTAs. For all such requests, **Form ISR‑4** must be submitted along with required documents. ([sebi.gov.in](https://www.sebi.gov.in/web/?file=https%3A%2F%2Fwww.sebi.gov.in%2Fsebi_data%2Ffaqfiles%2Fjan-2026%2F1767611333081.pdf))  
+• The July 23, 2026 SEBI circular (HO/38/13/11(14)2026‑...) continues to require **ISR‑4** for processing duplicate certificates, transmission, and transposition, with revised timelines and removal of Letter of Confirmation. ([sebi.gov.in](https://www.sebi.gov.in/legal/circulars/jul-2026/ease-of-doing-investment-and-ease-of-doing-business-simplification-and-standardisation-of-the-framework-for-transmission-of-securities_103030.html))  
+• A sample of **Form ISR‑4** (Request for issue of duplicate certificate and other service requests including transposition) can be found from an RTA example, confirming that ISR‑4 covers both duplicate certificate and transposition requests. ([nsearchives.nseindia.com](https://nsearchives.nseindia.com/corporate/NRAIL_16122024125344_LossofShareCertificateGCMutha16122024.pdf))  
+
+Therefore:
+
+Use **Form ISR‑4** (Investor Service Request — 4) for service requests such as duplicate share certificate issuance and transposition of securities.",https://www.sebi.gov.in/web/?file=https%3A%2F%2Fwww.sebi.gov.in%2Fsebi_data%2Ffaqfiles%2Fjan-2026%2F1767611333081.pdf | https://www.sebi.gov.in/legal/circulars/jul-2026/ease-of-doing-investment-and-ease-of-doing-business-simplification-and-standardisation-of-the-framework-for-transmission-of-securities_103030.html | https://nsearchives.nseindia.com/corporate/NRAIL_16122024125344_LossofShareCertificateGCMutha16122024.pdf,,
+R09,registry,in_scope,What is transposition of shares?,answer,True,,"“Transposition of shares” refers to the change in the order of names in which physical share certificates are held jointly by two or more holders.
+
+- As defined by SEBI, transposition “refers to the change in the order of names in which physical securities are held jointly in the names of two or more holders of securities.” ([sebi.gov.in](https://www.sebi.gov.in/web/?file=https%3A%2F%2Fwww.sebi.gov.in%2Fsebi_data%2Ffaqfiles%2Fjan-2026%2F1767611333081.pdf))
+
+Important points regarding transposition:
+
+- Transposition applies only to physical certificates held jointly—for example, changing from “A & B” to “B & A” as holders.
+- After such a request is processed, there is no issuance of a physical certificate; instead, the securities are issued in **dematerialised form only**, in line with SEBI’s Master Circular for RTAs (SEBI/HO/MIRSD/MIRSD‑PoD/P/CIR/2025/91 dated June 23, 2025). ([sebi.gov.in](https://www.sebi.gov.in/web/?file=https%3A%2F%2Fwww.sebi.gov.in%2Fsebi_data%2Ffaqfiles%2Fjan-2026%2F1767611333081.pdf))
+
+In summary: when joint holders wish to alter the sequence of names on physical share certificates, they request a transposition. The outcome must be in dematerialised form as mandated by SEBI.",https://www.sebi.gov.in/web/?file=https%3A%2F%2Fwww.sebi.gov.in%2Fsebi_data%2Ffaqfiles%2Fjan-2026%2F1767611333081.pdf,ISR-4,
+R10,registry,in_scope,What is an objection memo raised by an RTA and how long does the RTA have to process a service request?,answer,True,,"An **objection memo** raised by a Registrar to an Issue and Share Transfer Agent (RTA) is a formal communication issued when the transfer documents submitted by an investor—for instance, during share transfer—contain discrepancies or defects. According to SEBI’s procedural guidance:
+
+- The objection memo must be on the company’s or RTA’s letterhead and carry a unique serial number issued between two book‑closure dates.  
+- The RTA must affix a date‑received stamp on the transfer deed(s) returned with the objection memo.  
+- It must detail the specific defects observed and attach all relevant documents, advising the transferee and/or transferor on the manner in which the documents should be rectified for resubmission.  
+- The RTA cannot raise additional objections on the same documents if the rectification has been done as guided—unless new issues emerge after the last rejection.  
+- The share certificates and transfer deed(s), along with the objection memo, must be returned within 1 month of receipt of the transfer documents.([sebi.gov.in](https://www.sebi.gov.in/sebi_data/commondocs/rtageneral_p.pdf))
+
+---
+
+Regarding **how long the RTA has to process a service request**, as per SEBI’s Master Circular dated June 23, 2025 (SEBI/HO/MIRSD/MIRSD‑PoD/P/CIR/2025/91):
+
+The expected timelines for processing various investor service requests are:
+
+- PAN update: 15 days  
+- Nomination update: 30 days  
+- Bank account details / contact details (postal address, email, mobile): 15 days  
+- Signature update: 30 days  
+- Name change: 30 days  
+- Duplicate or replacement of securities certificates: 30 days  
+- Transmission (through Letter of Confirmation): 21 days  
+- Transposition (through Letter of Confirmation): 15 days  
+- Grievance redressal: 21 days  
+- Dematerialisation (via DP): 15 days  
+- Rematerialisation: 30 days([sebi.gov.in](https://www.sebi.gov.in/sebi_data/attachdocs/jun-2025/1750678372996.pdf))
+
+---
+
+In summary:
+
+- An **objection memo** is the RTA’s formal communication of defects, requiring rectification, and must be issued within 1 month of receipt of transfer documents.  
+- The RTA must **process various service requests** within the standard timelines specified in SEBI’s Master Circular of June 23, 2025.",https://www.sebi.gov.in/sebi_data/commondocs/rtageneral_p.pdf | https://www.sebi.gov.in/sebi_data/attachdocs/jun-2025/1750678372996.pdf,,

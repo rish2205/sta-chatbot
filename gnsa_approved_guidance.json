@@ -1,0 +1,241 @@
+{
+ "provenance": "Corrected KYC and IEPF answers approved as operational guidance by the GNSA STA team (source file 'kyc and iepf (3).txt'). Operational guidance only: not independently verified on the GNSA website and not a regulatory circular. 'cross_check' notes are maintainer-reviewed differences from SEBI/MCA material: flag them, never silently merge.",
+ "passages": [
+  {
+   "id": "kyc-complete-physical",
+   "topic": "kyc",
+   "profiles": [
+    "kyc_completion"
+   ],
+   "title": "Completing KYC for physical securities",
+   "text": "To complete KYC for physical securities, submit Form ISR-1 along with the required supporting documents. By post/courier: send the duly completed and signed Form ISR-1 with the required self-attested supporting documents to GNSA INFOTECH PRIVATE LIMITED.\nPlease submit the applicable duly completed and signed form(s), along with the required self-attested documents such as the shareholder's PAN Card, Aadhaar Card, cancelled cheque leaf and Client Master List (CML), wherever applicable, for updating your records.\nFor the latest forms, document requirements and submission procedures, visit the GNSA website.",
+   "must_keep": [
+    "Physical-folio KYC goes through ISR-1 with the applicable self-attested documents, submitted to GNSA.",
+    "Supporting documents are 'wherever applicable', not a universal list."
+   ],
+   "cross_check": [
+    "The approved text says 'either of the following methods' but lists only post/courier; in-person submission appears in the folio-compliance guidance (kyc-folio-submit).",
+    "Approved text lists the cancelled cheque leaf among self-attested documents; SEBI FAQ Q40 requires an ORIGINAL cancelled cheque with the holder's name printed, or a bank-attested statement. Flag, do not merge silently."
+   ],
+   "keywords": "kyc complete process physical isr-1 submit post courier website latest forms"
+  },
+  {
+   "id": "kyc-forms-purpose",
+   "topic": "kyc",
+   "profiles": [
+    "kyc_completion",
+    "folio_compliance",
+    "kyc_documents"
+   ],
+   "title": "Applicable KYC forms and their purpose",
+   "text": "Form ISR-1: For updating KYC details such as PAN, address, email ID, mobile number and bank account details.\nForm ISR-2: For confirmation of signature and bank details by the shareholder's banker, wherever applicable.\nForm SH-13: For registering a nominee.\nForm ISR-3: For opting out of nomination.",
+   "must_keep": [
+    "Mention only the forms relevant to the question; ISR-2 is conditional ('wherever applicable'); SH-13 and ISR-3 are alternatives (nominate or opt out), not both mandatory."
+   ],
+   "cross_check": [],
+   "keywords": "forms isr-1 isr-2 sh-13 isr-3 mobile email address bank pan update purpose nominee opt out"
+  },
+  {
+   "id": "kyc-demat-dp",
+   "topic": "kyc",
+   "profiles": [
+    "kyc_completion"
+   ],
+   "title": "Demat holdings",
+   "text": "For shareholders holding shares in demat form, please contact your respective Depository Participant (DP) to update your KYC details.",
+   "must_keep": [
+    "Demat KYC is handled by the Depository Participant, not GNSA."
+   ],
+   "cross_check": [],
+   "keywords": "demat dp depository participant"
+  },
+  {
+   "id": "kyc-folio-fields-isr1",
+   "topic": "kyc",
+   "profiles": [
+    "folio_compliance"
+   ],
+   "title": "Form ISR-1 details for folio KYC compliance",
+   "text": "To make your physical folio KYC compliant, submit the applicable KYC forms with all the necessary details and supporting documents. For Form ISR-1, provide the date, company name, folio number, share details, demat account number, PAN linked with Aadhaar wherever applicable, address, contact details, email ID, bank account details and shareholder signature.",
+   "must_keep": [
+    "When listing ISR-1 details, include every listed field; Aadhaar-linked PAN is 'wherever applicable'."
+   ],
+   "cross_check": [],
+   "keywords": "folio kyc compliant isr-1 fields date company folio share details demat pan aadhaar address contact email bank signature mobile"
+  },
+  {
+   "id": "kyc-folio-fields-isr2",
+   "topic": "kyc",
+   "profiles": [
+    "folio_compliance"
+   ],
+   "title": "Form ISR-2 details",
+   "text": "For Form ISR-2, provide the bank name and address, account opening date, shareholder name, address, mobile number, email ID, banker name, banker Employee ID and banker email ID. The form should also contain the shareholder's photograph and signature and the banker's signature and bank seal, wherever applicable.",
+   "must_keep": [
+    "When listing ISR-2 details, include every listed field group (bank, account opening date, holder contacts, banker name/employee ID/email, photograph/signatures/seal)."
+   ],
+   "cross_check": [
+    "The approved text requires no specific 'bank manager'; do not add it."
+   ],
+   "keywords": "isr-2 banker bank seal photograph employee id account opening"
+  },
+  {
+   "id": "kyc-folio-fields-nomination",
+   "topic": "kyc",
+   "profiles": [
+    "folio_compliance"
+   ],
+   "title": "Form SH-13 and ISR-3 details",
+   "text": "For Form SH-13, if you wish to register a nominee, provide the company name, share details, nominee details, shareholder name, witness name and address, along with the shareholder's signature and witness signature. For Form ISR-3, if you do not wish to register a nominee, provide the company name, share details, shareholder name and shareholder signature.",
+   "must_keep": [
+    "SH-13 (nominate) and ISR-3 (opt out) are alternatives; do not present nominee registration as mandatory."
+   ],
+   "cross_check": [
+    "Approved SH-13 text requires a witness name, address and signature; SEBI FAQ Q25 says a witness is NOT required when the holder signs with a wet signature, only for a thumb impression. State both; do not drop either."
+   ],
+   "keywords": "sh-13 isr-3 nominee witness nomination opt out"
+  },
+  {
+   "id": "kyc-folio-submit",
+   "topic": "kyc",
+   "profiles": [
+    "folio_compliance",
+    "kyc_completion"
+   ],
+   "title": "Submission and confirmation for folio KYC",
+   "text": "The completed forms and documents may be submitted in person, by post, or through courier to GNSA INFOTECH PRIVATE LIMITED. Please submit the duly completed and signed applicable form(s), along with the required self-attested supporting documents such as the shareholder's PAN card, Aadhaar card, cancelled cheque leaf and CML, wherever applicable, to GNSA INFOTECH PRIVATE LIMITED for verification and updating of your records.\nOnce the submitted documents are verified and the KYC details are successfully updated, a confirmation email will be sent to the shareholder's registered email ID. Thereafter, the folio will be treated as KYC compliant, subject to the applicable regulatory requirements.",
+   "must_keep": [
+    "Confirmation email is sent only after verification and successful update, subject to applicable regulatory requirements; do not promise it for a request that has not been verified."
+   ],
+   "cross_check": [],
+   "keywords": "submit in person post courier verification confirmation email registered compliant resubmit update mobile"
+  },
+  {
+   "id": "kyc-documents",
+   "topic": "kyc",
+   "profiles": [
+    "kyc_documents"
+   ],
+   "title": "Acceptable KYC documents",
+   "text": "For KYC verification, you may submit your PAN Card, Aadhaar Card/address proof, cancelled cheque leaf or bank statement/passbook, and Client Master List (CML), wherever applicable. Please ensure that the documents are self-attested and submitted along with the applicable KYC form(s) such as ISR-1, ISR-2, SH-13 or ISR-3.",
+   "must_keep": [
+    "Documents are 'wherever applicable' and self-attested copies accompany the applicable form(s)."
+   ],
+   "cross_check": [
+    "SEBI FAQ Q40: bank-detail proof is an ORIGINAL cancelled cheque (holder's name printed) or a bank-attested statement; Q44 allows a self-attested passbook/statement for signature updates with ISR-2. Address proof is needed only if the address is changing. Flag these conditions."
+   ],
+   "keywords": "documents proof pan aadhaar address cancelled cheque passbook statement cml self-attested acceptable"
+  },
+  {
+   "id": "kyc-signature-mismatch",
+   "topic": "registry",
+   "profiles": [
+    "signature_mismatch"
+   ],
+   "title": "Signature mismatch",
+   "text": "A signature mismatch occurs when the signature provided in your request does not match the specimen signature registered with GNSA INFOTECH PRIVATE LIMITED for your folio.\nTo resolve the signature mismatch, please submit SEBI Form ISR-2, duly completed and authenticated by your banker, along with a cancelled cheque leaf for verification and updating of your signature records.",
+   "must_keep": [
+    "Describe this as GNSA's preferred route; do not call it the only permitted route or promise a successful update."
+   ],
+   "cross_check": [
+    "SEBI FAQ Q44 separates MINOR mismatch (notice from the registrar, 15-day objection window, no update unless objection/undelivered) from MAJOR mismatch/missing specimen (ISR-1 plus bank proof plus banker ISR-2 attestation, or in-person signing at the registrar's office). Approved text applies ISR-2 + cheque to every mismatch: flag the difference instead of merging it."
+   ],
+   "keywords": "signature mismatch specimen not match isr-2 banker cancelled cheque"
+  },
+  {
+   "id": "kyc-signature-change",
+   "topic": "registry",
+   "profiles": [
+    "signature_change"
+   ],
+   "title": "Change in specimen signature",
+   "text": "To update or change your specimen signature in the GNSA INFOTECH PRIVATE LIMITED records, please submit Form ISR-2, duly completed and signed by the shareholder and authenticated by the banker, along with a cancelled cheque leaf and the required KYC documents.\nThe banker is required to verify and attest the shareholder's signature as prescribed in Form ISR-2. Please ensure that the signature provided in the form matches the signature attested by the banker.\nYou may submit the completed form along with the required supporting documents to GNSA INFOTECH PRIVATE LIMITED by post/courier or through the prescribed submission process. GNSA INFOTECH PRIVATE LIMITED will verify the documents and update the specimen signature in its records, subject to the applicable regulatory requirements.",
+   "must_keep": [
+    "The submitted signature must match the banker-attested signature.",
+    "Verification/update is subject to applicable regulatory requirements; no unconditional update promise."
+   ],
+   "cross_check": [
+    "SEBI FAQ Q44: the signature update request is made through ISR-1, and the bank proof may be an original name-printed cancelled cheque OR a self-attested passbook/statement, with ISR-2 banker attestation of the SAME account. The approved text omits ISR-1 and the passbook alternative: flag, do not merge."
+   ],
+   "keywords": "change specimen signature update isr-2 banker attest cancelled cheque kyc documents"
+  },
+  {
+   "id": "iepf-definition",
+   "topic": "iepf",
+   "profiles": [
+    "iepf_definition"
+   ],
+   "title": "What is IEPF",
+   "text": "IEPF stands for Investor Education and Protection Fund. It is a fund established by the Government of India under the Companies Act, 2013, to promote investor awareness and protect investors' interests.\nWhere dividends remain unpaid or unclaimed for the prescribed period of 7 years, the applicable dividend amount and, in certain cases, the corresponding shares are transferred to the IEPF in accordance with the applicable regulations.\nShareholders whose shares or amounts have been transferred to the IEPF may claim them from the Investor Education and Protection Fund Authority (IEPFA) by following the prescribed procedure.",
+   "must_keep": [
+    "Shares are transferred only 'in certain cases' (seven consecutive years of unclaimed dividend), not always."
+   ],
+   "cross_check": [],
+   "keywords": "iepf investor education protection fund meaning unpaid unclaimed seven years shares iepfa authority"
+  },
+  {
+   "id": "iepf-srn",
+   "topic": "iepf",
+   "profiles": [
+    "srn_definition"
+   ],
+   "title": "What is SRN (approved text)",
+   "text": "SRN stands for Service Request Number. It is a unique reference number generated for a shareholder's service request submitted to GNSA INFOTECH PRIVATE LIMITED.\nThe SRN can be used to track the status of the request and for future communication with GNSA INFOTECH PRIVATE LIMITED regarding the same request. Please quote the SRN when contacting GNSA INFOTECH PRIVATE LIMITED for any follow-up or clarification.",
+   "must_keep": [
+    "Explain SRN by context: in an IEPF-5 claim the SRN is generated by GNSA when IEPF-5 is submitted (see iepf-entitlement / iepf-procedures); a GNSA service-request reference is a separate reference. Keep it distinct from a GNSA service-request reference."
+   ],
+   "cross_check": [
+    "AMBIGUITY: this approved text defines SRN only as a GNSA-generated service-request number, but the same approved guidance (entitlement letter, IEPF procedures) and the GNSA IEPF-5 instruction kit say the SRN is generated through the GNSA portal on IEPF-5 filing. Present the two meanings separately; do not claim GNSA issues the GNSA SRN."
+   ],
+   "keywords": "srn service request number track status quote follow-up reference mca iepf-5"
+  },
+  {
+   "id": "iepf-entitlement",
+   "topic": "iepf",
+   "profiles": [
+    "iepf_entitlement"
+   ],
+   "title": "How to get an entitlement letter",
+   "text": "If the shareholder is in possession of the original share certificate, the shareholder may file Form IEPF-5 through the GNSA portal to generate the Service Request Number (SRN) and initiate the IEPF claim process.\nIf the shareholder does not have the original share certificate, or in cases involving transmission of shares, the shareholder/claimant is required to contact GNSA INFOTECH PRIVATE LIMITED to obtain the applicable Entitlement Letter.\nThe shareholder/claimant should then follow the IEPF claim procedure prescribed by GNSA INFOTECH PRIVATE LIMITED and submit the required documents for processing of the claim.\nLoss of Share Certificate: follow the applicable Loss of Share Certificate procedure. Transmission of Shares: follow the applicable Transmission procedure.",
+   "must_keep": [
+    "Keep both paths: original certificate held vs certificate missing or transmission.",
+    "Do not equate this IEPF Entitlement Letter with a demat Letter of Confirmation."
+   ],
+   "cross_check": [
+    "Sequencing ambiguity: this text sends certificate-less/transmission claimants to GNSA for the Entitlement Letter, while iepf-procedures says every claimant first files IEPF-5 and generates the SRN. Say the order should be confirmed with GNSA for those cases."
+   ],
+   "keywords": "entitlement letter original share certificate iepf-5 mca srn loss transmission"
+  },
+  {
+   "id": "iepf-procedures",
+   "topic": "iepf",
+   "profiles": [
+    "iepf_procedures"
+   ],
+   "title": "IEPF online forms and procedures",
+   "text": "For claiming shares or amounts transferred to the IEPF, the shareholder/claimant is required to follow the prescribed IEPF claim procedure.\nThe shareholder/claimant should first file Form IEPF-5 online through the GNSA portal and generate the Service Request Number (SRN). After filing IEPF-5, the claimant should follow the applicable procedure prescribed by GNSA INFOTECH PRIVATE LIMITED and submit the required documents for verification and processing.\nThe documents and procedure may vary depending on the nature of the claim. For example, claims involving loss of share certificates or transmission of shares may require additional documents and must follow the respective procedures prescribed by GNSA INFOTECH PRIVATE LIMITED.\nPlease download the GNSA IEPF Help Kit from the website for guidance on the filing process and required documents.",
+   "must_keep": [
+    "IEPF-5 online via GNSA, then SRN, then the GNSA procedure and documents; documents vary by claim (loss/transmission need more)."
+   ],
+   "cross_check": [
+    "Help Kit link is the GNSA page https://www.gnsaindia.com/kyc.php (the only verified project link); the application adds link cards, so do not write URLs. The 2022 IEPF-5 sample and its checklist are historical and must not be recited unless explicitly asked."
+   ],
+   "keywords": "iepf online sample forms procedures help kit filing iepf-5 mca srn documents"
+  },
+  {
+   "id": "iepf-dividend-transfer",
+   "topic": "iepf",
+   "profiles": [
+    "dividend_iepf"
+   ],
+   "title": "Transfer of unclaimed/unpaid dividend to IEPF",
+   "text": "Unclaimed or unpaid dividend is transferred to the Investor Education and Protection Fund (IEPF) by the Company, and no action is required from the shareholder for the transfer.\nAny dividend amount remaining unpaid or unclaimed for seven years from the date of transfer to the Company's Unpaid Dividend Account is transferred to the IEPF, along with the applicable accrued interest, in accordance with the provisions of the Companies Act, 2013.\nBefore the transfer to IEPF, eligible shareholders may contact GNSA INFOTECH PRIVATE LIMITED to claim the unpaid dividend.\nAfter the amount is transferred to IEPF, the shareholder/claimant can claim the eligible amount from the IEPF Authority by filing Form IEPF-5 through the GNSA portal and following the prescribed claim procedure.",
+   "must_keep": [
+    "The seven years run from transfer to the Unpaid Dividend Account.",
+    "The Company, not the shareholder, performs the transfer."
+   ],
+   "cross_check": [],
+   "keywords": "unclaimed unpaid dividend transfer iepf seven years unpaid dividend account interest claim before after"
+  }
+ ]
+}

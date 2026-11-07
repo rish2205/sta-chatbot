@@ -1,0 +1,28 @@
+{
+  "_comment": "Central form-name -> URL map. Links are applied by code (form_links.py), never by the model. Add a code here only once its correct URL is supplied; unmapped forms stay plain text.",
+  "forms": {
+    "ISR-1": "https://www.gnsaindia.com/images/ISR-1_new.pdf",
+    "ISR-2": "https://www.gnsaindia.com/images/ISR-2_new.pdf",
+    "ISR-3": "https://www.gnsaindia.com/images/ISR-3_new.pdf",
+    "ISR-4": "https://www.gnsaindia.com/images/ISR-4_new.pdf",
+    "SH-13": "https://www.gnsaindia.com/images/SH-13_new.pdf",
+    "SH-14": "https://www.gnsaindia.com/images/SH-14_new.pdf",
+    "IEPF-5": "https://www.gnsaindia.com/images/IEPF-5_help.pdf"
+  },
+  "transmission": {
+    "_comment": "Website forms related BY PURPOSE (not identical format) to SEBI transmission Annexures 3-5. Applied only when the answer is about transmission. Annexure 2/TX-2 has no URL: stays plain.",
+    "ISR-5": "https://www.gnsaindia.com/images/ISR-5_updated.PDF",
+    "Annexure C": "https://www.gnsaindia.com/images/ISR-5_updated.PDF",
+    "Annexure D": "https://www.gnsaindia.com/images/Annexure_D_New.pdf",
+    "Annexure E": "https://www.gnsaindia.com/images/Annexure_E_New.pdf",
+    "Annexure F": "https://www.gnsaindia.com/images/Annexure_F_New.pdf"
+  },
+  "pending": {
+    "Form A": "plain text until URL supplied",
+    "Annexure 2": "plain text until exact-document URL supplied",
+    "Annexure 3": "plain text until exact-document URL supplied",
+    "Annexure 4": "plain text until exact-document URL supplied",
+    "Annexure 5": "plain text until exact-document URL supplied",
+    "GNSA portal": "URL to be provided"
+  }
+}

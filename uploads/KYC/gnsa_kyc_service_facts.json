@@ -1,0 +1,9 @@
+{
+  "provenance": "GNSA operational guidance approved by the GNSA STA team (corrected KYC answers); not independently verified on the website and not a regulatory circular.",
+  "facts": [
+    "GNSA INFOTECH PRIVATE LIMITED receives applicable completed and signed physical-folio KYC forms with self-attested supporting documents by post/courier; in-person submission is also described in the supplied folio-compliance guidance.",
+    "GNSA verifies submitted documents and updates its records. The supplied approved guidance states that a confirmation email is sent to the registered email ID after successful KYC updating, subject to applicable regulatory requirements.",
+    "The supplied GNSA guidance uses banker-authenticated ISR-2 with a cancelled cheque for signature mismatch and change in specimen signature. Required KYC documents accompany a signature change where applicable. This preferred procedure does not mean regulatory alternatives are forbidden.",
+    "Demat KYC updates are handled by the shareholder's Depository Participant."
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "provenance": "GNSA operational guidance approved by the GNSA STA team (corrected signature answers, moved from KYC to Registry); not independently verified on the GNSA website and not a regulatory circular.",
+  "facts": [
+    "The supplied GNSA guidance uses banker-authenticated ISR-2 with a cancelled cheque for signature mismatch and change in specimen signature. Required KYC documents accompany a signature change where applicable. This preferred procedure does not mean regulatory alternatives are forbidden.",
+    "A signature mismatch occurs when the signature in a request does not match the specimen signature registered with GNSA INFOTECH PRIVATE LIMITED for the folio. For a change, the signature on the form must match the signature attested by the banker; GNSA verifies the documents and updates its records subject to applicable regulatory requirements."
+  ]
+}

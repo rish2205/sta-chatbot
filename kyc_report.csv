@@ -1,0 +1,166 @@
+﻿id,topic,type,question,bot_kind,auto_pass,auto_note,answer,sources,forms_shown,human_verdict
+K01,kyc,in_scope,Which form do I use to register PAN and KYC details for physical folios?,answer,False,missing keywords: ISR-1,"To register your PAN and KYC details for physical folios, you must use **Form ISR‑1**.
+
+• SEBI’s FAQ (January 2026) confirms that PAN and KYC details for physical securities folios can be submitted to the RTA using **Form ISR‑1**, and allows authorizing the RTA to update these details across all other folios managed by the same RTA ([sebi.gov.in](https://www.sebi.gov.in/sebi_data/faqfiles/jan-2026/1767611333081.pdf)).  
+• SEBI’s earlier guidance (January 2024) also states that for registering or updating PAN, KYC, bank details, signature, address, mobile, and email, investors use **Form ISR‑1**, which can be downloaded from the company or RTA website ([sebi.gov.in](https://www.sebi.gov.in/sebi_data/faqfiles/jan-2024/1704433843359.pdf)).
+
+Thus, to register your PAN and KYC details in physical folios, you should complete and submit **Form ISR‑1** to your RTA.",https://www.sebi.gov.in/sebi_data/faqfiles/jan-2026/1767611333081.pdf | https://www.sebi.gov.in/sebi_data/faqfiles/jan-2024/1704433843359.pdf,,
+K02,kyc,in_scope,How do I opt out of nomination for my physical holding?,answer,False,missing keywords: ISR-3,"To opt out of nomination for your physical shareholding:
+
+- As per SEBI’s Master Circular for RTAs (regulated under SEBI/HO/MIRSD/MIRSD-PoD/P/CIR/2025/91 dated June 23, 2025), submission of **Form ISR‑3** is required to declare your intention to opt out of nomination in a physical folio ([sebi.gov.in](https://www.sebi.gov.in/web/?file=https%3A%2F%2Fwww.sebi.gov.in%2Fsebi_data%2Ffaqfiles%2Fjan-2026%2F1767611333081.pdf)).
+- More recently, SEBI’s Circular No. SEBI/HO/MIRSD/MIRSD‑PoD‑1/P/CIR/2023/37 dated March 16, 2023 reiterates that Form ISR‑3 is the prescribed format for a **“declaration to opt‑out of nomination”** for physical securities ([betanseapi.nseindia.com](https://betanseapi.nseindia.com/static/invest/service-request-by-rtas)).
+- The process typically involves:
+  - If you already have a nomination in place, first cancel it using **Form SH‑14**.
+  - Then submit **Form ISR‑3** to the relevant Registrar and Share Transfer Agent (RTA) for your folio ([sebi.gov.in](https://www.sebi.gov.in/sebi_data/attachdocs/may-2024/1715081550397.pdf)).
+- **Form ISR‑3** serves as a declaration that you do *not* wish to nominate anyone to inherit your securities, and you understand that, in the event of your death, your legal heirs must provide the required legal documents (like succession certificate or probate of will) to claim the shares ([bseindia.com](https://www.bseindia.com/xml-data/corpfiling/AttachHis/fc200123-863e-4517-8d46-182ea2decfbc.pdf)).
+- These forms (SH‑14 and ISR‑3) are available for download in fillable formats on the websites of RTAs, listed companies, and stock exchanges ([sebi.gov.in](https://www.sebi.gov.in/sebi_data/attachdocs/may-2024/1715081550397.pdf)).
+
+Summary of steps:
+
+• Cancel existing nomination (if any) → Form SH‑14  
+• Submit declaration to opt out → Form ISR‑3 (original, signed, as per folio details)",https://www.sebi.gov.in/web/?file=https%3A%2F%2Fwww.sebi.gov.in%2Fsebi_data%2Ffaqfiles%2Fjan-2026%2F1767611333081.pdf | https://betanseapi.nseindia.com/static/invest/service-request-by-rtas | https://www.sebi.gov.in/sebi_data/attachdocs/may-2024/1715081550397.pdf | https://www.bseindia.com/xml-data/corpfiling/AttachHis/fc200123-863e-4517-8d46-182ea2decfbc.pdf | https://www.sebi.gov.in/sebi_data/faqfiles/jan-2026/1767611333081.pdf,,
+K03,kyc,in_scope,How do I add a nominee to my physical folio?,answer,False,missing keywords: SH-13,"To add a nominee to your physical folio, please follow these official SEBI-mandated steps:
+
+Steps to Register a Nominee for Physical Share Certificates:
+
+1. **Obtain the correct form**  
+   You need to complete Form SH‑13 (Nomination Form) for physical holdings. This applies separately for each company in which you hold physical shares.([sebi.gov.in](https://www.sebi.gov.in/web/?file=https%3A%2F%2Fwww.sebi.gov.in%2Fsebi_data%2Ffaqfiles%2Fjan-2026%2F1767611333081.pdf))
+
+2. **Fill out the form as required**  
+   - Provide nominee details: name, relationship, date of birth (mandatory if nominee is a minor), and optional fields such as share percentage, contact details, KYC, and guardian details for minors.([sebi.gov.in](https://www.sebi.gov.in/web/?file=https%3A%2F%2Fwww.sebi.gov.in%2Fsebi_data%2Fattachdocs%2Fmay-2026%2F1780053951785.pdf))  
+   - If multiple nominees are named and you do not specify percentages, assets will be divided equally; any odd lot will go to the first nominee listed.([sebi.gov.in](https://www.sebi.gov.in/web/?file=https%3A%2F%2Fwww.sebi.gov.in%2Fsebi_data%2Fattachdocs%2Fmay-2026%2F1780053951785.pdf))
+
+3. **Sign the form correctly**  
+   - If you use a wet (handwritten) signature, no witness is required.([sebi.gov.in](https://www.sebi.gov.in/web/?file=https%3A%2F%2Fwww.sebi.gov.in%2Fsebi_data%2Ffaqfiles%2Fjan-2026%2F1767611333081.pdf))  
+   - If you affix a thumb impression instead, the signature must be witnessed by two individuals, and their names and addresses must be captured.([sebi.gov.in](https://www.sebi.gov.in/web/?file=https%3A%2F%2Fwww.sebi.gov.in%2Fsebi_data%2Fattachdocs%2Fmay-2026%2F1780053951785.pdf))
+
+4. **Submit the form to the RTA**  
+   Send the completed Form SH‑13 to the Registrar to an Issue and Share Transfer Agent (RTA) or the company's share department (if in-house).([sebi.gov.in](https://www.sebi.gov.in/web/?file=https%3A%2F%2Fwww.sebi.gov.in%2Fsebi_data%2Ffaqfiles%2Fjan-2026%2F1767611333081.pdf))
+
+5. **Processing timeline**  
+   The RTA is required to process nomination requests within 30 days of receipt.([sebi.gov.in](https://www.sebi.gov.in/web/?file=https%3A%2F%2Fwww.sebi.gov.in%2Fsebi_data%2Ffaqfiles%2Fjan-2026%2F1767611333081.pdf))
+
+6. **Updating or cancelling an existing nomination**  
+   - To change the nominee, submit a fresh Form SH‑13.([sebi.gov.in](https://www.sebi.gov.in/web/?file=https%3A%2F%2Fwww.sebi.gov.in%2Fsebi_data%2Ffaqfiles%2Fjan-2026%2F1767611333081.pdf))  
+   - To cancel an existing nomination, submit Form SH‑14 along with Form ISR‑3 (opt-out declaration).([sebi.gov.in](https://www.sebi.gov.in/web/?file=https%3A%2F%2Fwww.sebi.gov.in%2Fsebi_data%2Ffaqfiles%2Fjan-2026%2F1767611333081.pdf))",https://www.sebi.gov.in/web/?file=https%3A%2F%2Fwww.sebi.gov.in%2Fsebi_data%2Ffaqfiles%2Fjan-2026%2F1767611333081.pdf | https://www.sebi.gov.in/web/?file=https%3A%2F%2Fwww.sebi.gov.in%2Fsebi_data%2Fattachdocs%2Fmay-2026%2F1780053951785.pdf | https://www.sebi.gov.in/sebi_data/faqfiles/jan-2026/1767611333081.pdf,SH-13,
+K04,kyc,in_scope,How do I change or cancel an existing nomination?,answer,False,missing keywords: SH-14,"Here is the procedure to **change or cancel an existing nomination** for securities (e.g., shares, demat holdings, mutual fund folios) as per the latest SEBI guidelines:
+
+---
+
+**1. Regulatory Basis (Most Recent SEBI Circular)**  
+- SEBI’s **Circular dated May 29, 2026** (SEBI/HO/OIAE/OIAE_IAD‑3/P/CIR/2026/12676) explicitly states that investors may **change or cancel their nomination any number of times** ([sebi.gov.in](https://www.sebi.gov.in/web/?file=https%3A%2F%2Fwww.sebi.gov.in%2Fsebi_data%2Fattachdocs%2Fmay-2026%2F1780053951785.pdf)).
+
+---
+
+**2. Procedure Overview**  
+- To **change** a nomination, you must submit a **fresh nomination form**.  
+- To **cancel** an existing nomination, you submit both:
+  - The nomination change form (i.e., a fresh nomination form, possibly leaving nominee details blank or providing ""opt‑out""), and  
+  - The declaration for “opt‑out”.
+
+Both operations are to be submitted to the respective RTA or DP (for demat accounts) following the formats provided in the SEBI circular. ([sebi.gov.in](https://www.sebi.gov.in/web/?file=https%3A%2F%2Fwww.sebi.gov.in%2Fsebi_data%2Ffaqfiles%2Fjan-2026%2F1767611333081.pdf))
+
+---
+
+**3. Forms to Use**  
+- For physical holdings (shares), the forms are:
+  - **Form SH‑14** – to modify or cancel nomination  
+  - **Form ISR‑3** – declaration to opt‑out / cancel nomination ([sebi.gov.in](https://www.sebi.gov.in/web/?file=https%3A%2F%2Fwww.sebi.gov.in%2Fsebi_data%2Ffaqfiles%2Fjan-2026%2F1767611333081.pdf))
+
+- The SEBI May 2026 circular’s **Annexure‑A** and **Annexure‑B** (formats) are applicable for any subsequent change or cancellation of nomination and also for existing investors ([sebi.gov.in](https://www.sebi.gov.in/sebi_data/attachdocs/jun-2026/1780397706130.pdf)).
+
+---
+
+**4. Physical vs. Demat Accounts / Mutual Fund Folios**  
+- The May 2026 circular applies to both **demat accounts** (via DPs) and **mutual fund folios** (via RTAs), for both providing fresh nomination or cancelling it (opt‑out) ([sebi.gov.in](https://www.sebi.gov.in/legal/circulars/may-2026/ease-of-doing-investments-modified-norms-for-nomination-in-demat-accounts-and-mutual-fund-folios_101703.html)).
+
+---
+
+**5. Key Steps (Bullet Points)**  
+- Download or obtain:
+  - The SEBI‑prescribed nomination form (Annexure‑A of the May 29 2026 circular) for providing or changing nomination.
+  - The corresponding opt‑out declaration format (Annexure‑B) for cancellation.
+
+- Fill in the forms with accurate nominee details (or tick “opt‑out” for cancellation).
+
+- Submit the completed form(s) to the RTA (for physical or mutual fund folios) or DP (for demat accounts), as per their process (online/physical).
+
+- Ensure you obtain acknowledgement from the RTA/DP for your submission; regulated entities must provide acknowledgements for **each** nomination change or cancellation ([sebi.gov.in](https://www.sebi.gov.in/sebi_data/attachdocs/jun-2026/1780397706130.pdf)).
+
+---
+
+**6. Timelines**  
+- SEBI FAQs note that the expected timeline for processing a nomination change is **30 days** ([sebi.gov.in](https://www.sebi.gov.in/web/?file=https%3A%2F%2Fwww.sebi.gov.in%2Fsebi_data%2Ffaqfiles%2Fjan-2026%2F1767611333081.pdf)).
+
+---
+
+**Summary**  
+- You may change or cancel your nomination any number of times.  
+- Use the SEBI‑prescribed nomination forms (Annexure‑A for change, Annexure‑B declarative opt‑out).  
+- For physical shares, use Forms SH‑14 and ISR‑3.  
+- Submit to your RTA or DP and ensure you receive an acknowledgement.  
+- Allow up to 30 days for processing.",https://www.sebi.gov.in/web/?file=https%3A%2F%2Fwww.sebi.gov.in%2Fsebi_data%2Fattachdocs%2Fmay-2026%2F1780053951785.pdf | https://www.sebi.gov.in/web/?file=https%3A%2F%2Fwww.sebi.gov.in%2Fsebi_data%2Ffaqfiles%2Fjan-2026%2F1767611333081.pdf | https://www.sebi.gov.in/sebi_data/attachdocs/jun-2026/1780397706130.pdf | https://www.sebi.gov.in/legal/circulars/may-2026/ease-of-doing-investments-modified-norms-for-nomination-in-demat-accounts-and-mutual-fund-folios_101703.html,SH-14,
+K05,kyc,in_scope,What KYC details are mandatory for holders of physical securities?,answer,True,,"For holders of physical securities in India, SEBI mandates the following KYC (Know Your Customer) details as compulsory to be furnished to the Registrar and Share Transfer Agent (RTA):
+
+- Permanent Account Number (PAN)  
+- Proof of Address: one of the following is acceptable — Aadhaar (UID), valid Passport, registered Lease/Sale Agreement, Driving License, flat maintenance bill (with accompanying self-attested identity proof), recent utility bill (telephone – landline, electricity, or gas – not older than 3 months), government-issued ID with address, or for FIIs/sub-accounts, a POA to custodians stating registered address. The address of spouse or Client Master List (CML) of the Demat account are also acceptable ([nseindia.com](https://www.nseindia.com/static/invest/service-request-by-rtas)).  
+- Contact details: full postal address with PIN, valid mobile number, and email ID ([nseindia.com](https://www.nseindia.com/static/invest/service-request-by-rtas)).  
+- Bank account details: bank name, branch, account number, and IFSC code ([nseindia.com](https://www.nseindia.com/static/invest/service-request-by-rtas)).  
+- Specimen signature ([nseindia.com](https://www.nseindia.com/static/invest/service-request-by-rtas)).  
+- Nomination or declaration to opt‑out (Form SH‑13 or ISR‑3 as applicable) ([nseindia.com](https://www.nseindia.com/static/invest/service-request-by-rtas)).  
+- Additionally, PAN must be linked with Aadhaar as per SEBI’s requirement, and only operative, Aadhaar-linked PANs are acceptable post-June 30, 2023 ([nsearchives.nseindia.com](https://nsearchives.nseindia.com/corporate/TEJASNET_03062025181654_Annual_report.pdf)).
+
+The SEBI circular SEBI/HO/MIRSD‑PoD‑1/P/CIR/2023/37 dated 16 March 2023 mandates that RTAs shall not process service requests unless all these KYC details are furnished by the physical securities holder ([nseindia.com](https://www.nseindia.com/static/invest/service-request-by-rtas)). Folios missing any of these will be frozen, impacting investor rights like lodging grievances or receiving dividends ([investor.sebi.gov.in](https://investor.sebi.gov.in/pdf/ATTENTION%20OF%20THE%20HOLDERS%20OF%20PHYSICAL%20SECURITIES.pdf)).
+
+In summary, mandatory KYC details include:
+
+- PAN (Aadhaar-linked)  
+- Proof of address (as per the specified list)  
+- Postal address with PIN, mobile number, email  
+- Bank account details (bank name, branch, account number, IFSC)  
+- Specimen signature  
+- Nomination or opt‑out declaration",https://www.nseindia.com/static/invest/service-request-by-rtas | https://nsearchives.nseindia.com/corporate/TEJASNET_03062025181654_Annual_report.pdf | https://investor.sebi.gov.in/pdf/ATTENTION%20OF%20THE%20HOLDERS%20OF%20PHYSICAL%20SECURITIES.pdf | https://www.sebi.gov.in/sebi_data/faqfiles/jan-2026/1767611333081.pdf,,
+K06,kyc,in_scope,What happens if my PAN is not linked to Aadhaar for my physical folio?,answer,True,,"If your PAN is not linked to Aadhaar for your physical folio, here is what the official SEBI guidance indicates:
+
+• According to SEBI’s FAQ, linking PAN with Aadhaar is mandatory for all shareholders of listed companies holding securities in physical form ([sebi.gov.in](https://www.sebi.gov.in/web/?file=https%3A%2F%2Fwww.sebi.gov.in%2Fsebi_data%2Ffaqfiles%2Fjan-2026%2F1767611333081.pdf)).  
+• As per SEBI’s circular SEBI/HO/MIRSD/MIRSD‑PoD‑1/P/CIR/2023/3 dated March 8, 2023, any folios with PAN not linked to Aadhaar as of the notified cut‑off date of March 31, 2023 (or any other date specified by CBDT) are to be frozen ([sebi.gov.in](https://www.sebi.gov.in/sebi_data/attachdocs/mar-2023/1679050146255.pdf)).  
+• Once frozen, these folios will not allow any transactions or processing of service requests until the PAN is linked with Aadhaar ([sebi.gov.in](https://www.sebi.gov.in/sebi_data/attachdocs/mar-2023/1679050146255.pdf)).
+
+Therefore, if your physical folio’s PAN is not linked to Aadhaar:
+
+1. Your folio is likely frozen and inactive.  
+2. You cannot submit any investor service requests (such as transmission, KYC updates, dividend payment changes, etc.) until you get the PAN linked.  
+3. To unfreeze, you must ensure that your PAN is linked with Aadhaar and then submit a service request to the RTA (via Form ISR‑1) to update accordingly.
+
+You should promptly link your PAN with Aadhaar to restore activity on your folio and resume processing of any pending requests.",https://www.sebi.gov.in/web/?file=https%3A%2F%2Fwww.sebi.gov.in%2Fsebi_data%2Ffaqfiles%2Fjan-2026%2F1767611333081.pdf | https://www.sebi.gov.in/sebi_data/attachdocs/mar-2023/1679050146255.pdf | https://www.sebi.gov.in/sebi_data/faqfiles/jan-2026/1767611333081.pdf,ISR-1,
+K07,kyc,in_scope,Do I need to submit KYC separately for each folio?,answer,True,,"According to the latest SEBI‐issued FAQs (January 2026) and the SEBI Master Circular for RTAs (May 2024), the answer is:
+
+- You **do not** need to submit KYC details separately for each folio if all your folios are managed by the **same RTA (Registrar to an Issue and Share Transfer Agent)**. You can submit your KYC—including PAN, bank details, contact details, address, email, mobile, and signature—just once using **Form ISR‑1**, and authorize the RTA to apply the updates across all your folios they manage ([sebi.gov.in](https://www.sebi.gov.in/web/?file=https%3A%2F%2Fwww.sebi.gov.in%2Fsebi_data%2Ffaqfiles%2Fjan-2026%2F1767611333081.pdf)).
+
+- However, if your folios are with **different RTAs**, you must submit the complete KYC details—including submission of Form ISR‑1—to **each RTA separately**, since one RTA cannot update folios held with another RTA ([sebi.gov.in](https://www.sebi.gov.in/web/?file=https%3A%2F%2Fwww.sebi.gov.in%2Fsebi_data%2Ffaqfiles%2Fjan-2026%2F1767611333081.pdf)).
+
+- One exception: **Nomination via Form SH‑13** or **opt‑out via Form ISR‑3** must be submitted **separately for each folio**, even if they are managed by the same RTA ([sebi.gov.in](https://www.sebi.gov.in/web/?file=https%3A%2F%2Fwww.sebi.gov.in%2Fsebi_data%2Ffaqfiles%2Fjan-2026%2F1767611333081.pdf)).
+
+In summary:
+
+If all your folios are managed by the same RTA, one submission of Form ISR‑1—with authorization to update across folios—is sufficient for KYC. For folios under different RTAs, you need to submit Form ISR‑1 to each separately. And nomination (or opting out) still requires a separate per-folio filing.",https://www.sebi.gov.in/web/?file=https%3A%2F%2Fwww.sebi.gov.in%2Fsebi_data%2Ffaqfiles%2Fjan-2026%2F1767611333081.pdf | https://www.sebi.gov.in/sebi_data/faqfiles/jan-2026/1767611333081.pdf,,
+K08,kyc,in_scope,Can I submit KYC documents online or only on paper?,answer,True,,"You can submit KYC documents to the Registrar and Share Transfer Agent (RTA/STA) in both paper and electronic modes, per SEBI’s most recent guidelines:
+
+- As clarified in SEBI's Master Circular for RTAs (SEBI/HO/MIRSD/MIRSD‑PoD‑1/P/CIR/2023/37 dated March 16, 2023), the RTA must process KYC-related investor service requests. While this circular does not explicitly address online KYC submission, it recognizes e‑mail and electronic modes for overall investor service request processing ([cdslindia.com](https://www.cdslindia.com/downloads/Publications/Communique/1679050146255.pdf)).
+
+- More specifically, detailed FAQs from SEBI (dated June 23, 2025) note that RTAs accept documents:
+  • via in‑person submission (with IPV stamping),
+  • as self‑attested hard copies, or
+  • through electronic mode with e‑signature ([sebi.gov.in](https://www.sebi.gov.in/web/?file=https%3A%2F%2Fwww.sebi.gov.in%2Fsebi_data%2Ffaqfiles%2Fjan-2026%2F1767611333081.pdf)).
+  This confirms that RTAs are permitted to accept KYC documents electronically, provided they are e‑signed.
+
+- Further, SEBI’s KYC policies, as reflected in NSDL/CDSL documentation, allow for digital or online KYC processes involving:
+    • eSign,
+    • in‑person verification via video, and
+    • online submission of officially valid documents ([cdslindia.com](https://www.cdslindia.com/downloads/DP-203-Clarification-on-KYC-Process-and-Use-of-Technology.pdf)).
+
+In summary:
+
+• You may submit KYC documents to the STA in paper form—either as self‑attested copies or through in‑person verification.
+
+• Alternatively, you may submit them electronically using e‑signature or other digital modes as allowed under SEBI's guidelines.",https://www.cdslindia.com/downloads/Publications/Communique/1679050146255.pdf | https://www.sebi.gov.in/web/?file=https%3A%2F%2Fwww.sebi.gov.in%2Fsebi_data%2Ffaqfiles%2Fjan-2026%2F1767611333081.pdf | https://www.cdslindia.com/downloads/DP-203-Clarification-on-KYC-Process-and-Use-of-Technology.pdf,,
